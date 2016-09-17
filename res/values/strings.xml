@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="splash">Quadratic Function Calculator</string>
+    <string name="first">The basic form of Quadratic function is: ax^2 + bx + c = 0</string>
+    <string name="hint1">a</string>
+    <string name="hint2">b</string>
+    <string name="hint3">c</string>
+    <string name="get">Get Result</string>
+
+</resources>
